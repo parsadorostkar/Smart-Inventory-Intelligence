@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+daily_demand.csv
+model_data.csv
+cleaned_run_output.txt
+run_output.txt

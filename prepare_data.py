@@ -1,5 +1,7 @@
 import pandas as pd 
-from load_data import df_combined
+from load_data import load_data
+
+df_combined = load_data()
 
 print("Combined dataset shape:", df_combined.shape)
 print(df_combined.head())

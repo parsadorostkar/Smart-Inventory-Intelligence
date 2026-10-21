@@ -1,4 +1,4 @@
-\# Smart Inventory Intelligence
+﻿\# Smart Inventory Intelligence
 
 
 
@@ -216,5 +216,4 @@ The evaluation windows are simulated independently rather than as one continuous
 
 
 
-Missing product-day records are treated as zero recorded demand. This is a modeling assumption and may not always represent
-
+Missing product-day records are treated as zero recorded demand. This is a modeling assumption and may not always represent true demand when records are missing or incomplete.
